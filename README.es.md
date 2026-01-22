@@ -6,9 +6,10 @@
 
 <how-to-start>
   
-## 🌱  Cómo iniciar este proyecto
+## 🌱  Cómo iniciar este proyecto: 
 
-Sigue las siguientes instrucciones:
+
+Debes seguir estas instrucciones:
 
 1. Crear un nuevo repositorio haciendo fork en el [proyecto de Git](https://github.com/4GeeksAcademy/probability-exercises-project-in-python) o [haciendo clic aquí](https://github.com/4GeeksAcademy/probability-exercises-project-in-python/fork).
 2. Abre el repositorio creado recientemente en Codespace usando el [botón de Codespace](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository#creating-a-codespace-for-a-repository).
